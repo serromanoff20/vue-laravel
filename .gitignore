@@ -20,3 +20,7 @@ yarn-error.log
 
 /handbook/Kniga1.csv
 /handbook/Kniga2.csv
+
+#images
+/public/images/stripes/*
+/public/images/logo.png
